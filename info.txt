@@ -1,0 +1,2 @@
+Mostrar imágen (thumbnailUrl) y epigrafe (title) de albumId = 10 . Los datos se obtienen de la siguiente API: https://jsonplaceholder.typicode.com/photos
+
